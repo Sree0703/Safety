@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Article page">eaaf50e97a72021031b19d9c9eee3f35</macroponent>
+        <name>setAdditionalDetails</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    api.setState("additionalDetails", event.payload.value);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-14 15:29:38</sys_created_on>
+        <sys_id>6eaf50e91972021013a17b4c9297312a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>setAdditionalDetails</sys_name>
+        <sys_package display_value="Safety" source="x_1438976_safety">a513ce4183be42108527ca75eeaad37f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">a513ce4183be42108527ca75eeaad37f</sys_scope>
+        <sys_update_name>sys_ux_client_script_6eaf50e91972021013a17b4c9297312a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-14 15:29:38</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

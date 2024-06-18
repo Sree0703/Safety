@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="0515a4a106b20210e8116bf9dafe84be" sys_domain="global" table="sysapproval_approver" version="3" view="2_custom_portal_approval_x_1438976_safety">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-06-14 15:53:15</sys_created_on>
+            <sys_id>c515a4a129b202101f0c85ea644870bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="0515a4a15fb20210d58e4ea3101e20bd">0515a4a106b20210e8116bf9dafe84be</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-06-14 15:53:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-06-14 15:53:15</sys_created_on>
+            <sys_id>cd15a4a165b20210a6d298f2796decbd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="0515a4a15fb20210d58e4ea3101e20bd">0515a4a106b20210e8116bf9dafe84be</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-06-14 15:53:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-06-14 15:53:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0515a4a106b20210e8116bf9dafe84be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Safety" source="x_1438976_safety">a513ce4183be42108527ca75eeaad37f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Safety">a513ce4183be42108527ca75eeaad37f</sys_scope>
+            <sys_update_name>sys_ui_section_0515a4a106b20210e8116bf9dafe84be</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-06-14 15:53:15</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="2_custom_portal_approval_x_1438976_safety" name="2_custom_portal_approval_x_1438976_safety">0515a4a15fb20210d58e4ea3101e20bd</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

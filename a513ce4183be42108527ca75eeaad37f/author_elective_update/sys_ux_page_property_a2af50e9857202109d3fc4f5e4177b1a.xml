@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>enable_login_modal</name>
+        <page display_value="">12af10e9837202108527ca75eeaad3f4</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-14 15:29:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>a2af50e9857202109d3fc4f5e4177b1a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>enable_login_modal</sys_name>
+        <sys_package display_value="Safety" source="x_1438976_safety">a513ce4183be42108527ca75eeaad37f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">a513ce4183be42108527ca75eeaad37f</sys_scope>
+        <sys_update_name>sys_ux_page_property_a2af50e9857202109d3fc4f5e4177b1a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-14 15:29:38</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1438976_safety.12af10e9837202108527ca75eeaad3f4.root.enable_login_modal</unique_name>
+        <value>{&#13;
+	"enabled":false&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">a513ce4183be42108527ca75eeaad37f</application>
+        <file_path/>
+        <instance_id>40796fef1b118e18c8432f8dee4bcb3e</instance_id>
+        <instance_name>dev258531</instance_name>
+        <name>sys_ux_page_property_a2af50e9857202109d3fc4f5e4177b1a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>enable_login_modal</name><page display_value="">12af10e9837202108527ca75eeaad3f4</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-06-14 15:29:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>a2af50e9857202109d3fc4f5e4177b1a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>enable_login_modal</sys_name><sys_package display_value="Safety" source="x_1438976_safety">a513ce4183be42108527ca75eeaad37f</sys_package><sys_policy/><sys_scope display_value="Safety">a513ce4183be42108527ca75eeaad37f</sys_scope><sys_update_name>sys_ux_page_property_a2af50e9857202109d3fc4f5e4177b1a</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-06-14 15:29:38</sys_updated_on><type>json</type><unique_name>x_1438976_safety.12af10e9837202108527ca75eeaad3f4.root.enable_login_modal</unique_name><value>{&#13;
+	"enabled":false&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-1935473780</payload_hash>
+        <record_name>enable_login_modal</record_name>
+        <reverted_from/>
+        <source>6621d612832202108527ca75eeaad3a2</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-06-04 21:25:12</sys_created_on>
+        <sys_id>ff91ac6d837202108527ca75eeaad3db</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18fe5244ac00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>bf91ac6dc472021008f65583d33fdcdb</update_guid>
+        <update_guid_history>bf91ac6dc472021008f65583d33fdcdb:-1935473780</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-14 15:38:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>015b6224532c4632818169c131fa1224</sys_id>
+        <sys_metadata>a2af50e9857202109d3fc4f5e4177b1a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>enable_login_modal</sys_name>
+        <sys_package display_value="Safety" source="x_1438976_safety">a513ce4183be42108527ca75eeaad37f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">a513ce4183be42108527ca75eeaad37f</sys_scope>
+        <sys_scope_delete display_value="">1c93083422de40f59a0b013af76e30f9</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_a2af50e9857202109d3fc4f5e4177b1a</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_a2af50e9857202109d3fc4f5e4177b1a">ff91ac6d837202108527ca75eeaad3db</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-14 15:38:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
