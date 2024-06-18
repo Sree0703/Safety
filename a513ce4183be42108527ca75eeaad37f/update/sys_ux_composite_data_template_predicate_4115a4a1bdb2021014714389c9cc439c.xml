@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="task">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>due_date,short_description,number,opened_by</field_list>
+        <name>My Requests (task) predicate</name>
+        <order/>
+        <predicate_bundle display_value="My Requests (task) bundle">8915a4a122b20210d21791f2f8f39f9c</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-14 15:53:19</sys_created_on>
+        <sys_id>4115a4a1bdb2021014714389c9cc439c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Requests (task) predicate</sys_name>
+        <sys_package display_value="Safety" source="x_1438976_safety">a513ce4183be42108527ca75eeaad37f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">a513ce4183be42108527ca75eeaad37f</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_4115a4a1bdb2021014714389c9cc439c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-14 15:53:19</sys_updated_on>
+        <table>task</table>
+        <ux_template display_value="My Requests (task) template">0115a4a184b2021067a06856861a5fa0</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>
